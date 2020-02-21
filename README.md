@@ -1,13 +1,14 @@
 # Flutter Register/Sign-in Module
 
 “Register/Sign-in Module” is an open-source module built using Flutter, a powerful dart base library for building cross-platform mobile apps.
+
 It allows to add the following options to access your app:
 
-⁃ Sign-in with email id and password.
-⁃ Sign-in with Google or Facebook account.
-⁃ Sign up form for the new user.
-⁃ Better Development Environment.
-⁃ Allow Guest User to access the app.
+* Sign-in with email id and password.
+* Sign-in with Google or Facebook account.
+* Sign up form for the new user.
+* Better Development Environment.
+* Allow Guest User to access the app.
 
 The purpose of this module is to demonstrate how easily you can integrate the required login type into your Flutter app.
 
