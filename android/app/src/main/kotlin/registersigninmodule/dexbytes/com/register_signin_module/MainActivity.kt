@@ -1,4 +1,4 @@
-package com.example.login_signup_module
+package registersigninmodule.dexbytes.com.register_signin_module
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

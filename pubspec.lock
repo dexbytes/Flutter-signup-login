@@ -43,6 +43,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.14.11"
+  connectivity:
+    dependency: "direct main"
+    description:
+      name: connectivity
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.4.2"
   convert:
     dependency: transitive
     description:
@@ -57,13 +64,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.3"
-  cupertino_icons:
+  device_info:
     dependency: "direct main"
     description:
-      name: cupertino_icons
+      name: device_info
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.3"
+    version: "0.4.1+5"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -123,6 +130,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.5"
+  shared_preferences:
+    dependency: "direct main"
+    description:
+      name: shared_preferences
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.5.4"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -193,3 +207,4 @@ packages:
     version: "3.5.0"
 sdks:
   dart: ">=2.4.0 <3.0.0"
+  flutter: ">=1.10.0 <2.0.0"
