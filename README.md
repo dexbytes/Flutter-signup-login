@@ -19,7 +19,7 @@ All the screens in the app are component based to make it is easy to integrate w
 
 # Getting Started
 
-If you are new to flutter development, please follow the link - https://facebook.github.io/react-native/docs/getting-started
+If you are new to flutter development, please follow the link - https://flutter.dev/docs
 
 Please follow the following instructions to run the module with the same app on your local machine.
 
